@@ -1,0 +1,1 @@
+import React from "react";export default function Home(){return (<div style={{padding:20}}><h1 style={{color:'#0b63d6'}}>school_rjn — Demo</h1><p>Welcome to the demo for <strong>school_rjn</strong>. Use the Live Demo page to explore sample data and mock WhatsApp.</p></div>);}
